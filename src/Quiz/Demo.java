@@ -1,0 +1,15 @@
+package Quiz;
+
+public class Demo {
+
+    int a,b;
+
+    Demo(){
+        a = 10;
+        b = 20;
+    }
+
+    public void print(){
+        System.out.println(a + "" + b);
+    }
+}
